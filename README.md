@@ -44,7 +44,6 @@ A list of React Native components, libraries, walkthroughs, examples and videos.
 - [react-native-store](https://github.com/thewei/react-native-store) - _A simple database base on react-native AsyncStorage._
 - [React Native Background geolocation](https://github.com/transistorsoft/react-native-background-geolocation)
 - [AppHub](https://apphub.io) _Update your React Native app without having to resubmit to the App Store_
-- 
 
 ### Walkthroughs
 - [React Native Intro](http://www.appcoda.com/react-native-introduction/) - _Great introduction to RN_
