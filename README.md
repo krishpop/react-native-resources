@@ -1,7 +1,7 @@
 # React Native Resources
 A list of React Native components, libraries, walkthroughs, examples and videos.
 
-## Content
+## Contents
 - [Websites](#websites)
 - [Components](#components)
 - [Libraries](#libraries)
@@ -21,6 +21,8 @@ A list of React Native components, libraries, walkthroughs, examples and videos.
 - [Exponent](http://exp.host) - _Exponent lets you develop and test your RN app without xcode or the simulator, but on your phone!_
 - [RN Community Interviews](https://gist.github.com/brentvatne) - _Brent Vatne is creating the growing RN Community, and he interviews some pretty awesome people about how RN is helping them in their business_
 - [Spec](http://spec.fm) - _cool design+develop blog_
+- [React Cheat Sheet](http://ricostacruz.com/cheatsheets/react.html)
+- [React Styles](http://reactjsnews.com/react-style-guide-patterns-i-like/)
 
 ### Components
 - [react-native-button](https://github.com/ide/react-native-button) - _A button for React apps_
