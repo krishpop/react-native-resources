@@ -1,6 +1,8 @@
 # React Native Resources
 A list of React Native components, libraries, walkthroughs, examples and videos.
 
+- [Identical, more official list](https://github.com/ericvicenti/react-native-community)
+
 ## Contents
 - [Websites](#websites)
 - [Components](#components)
